@@ -1,4 +1,4 @@
 # NowakL.github.io
 
 
-Strona internetowa piana na GitHub.
+Strona internetowa pisana na GitHub.
